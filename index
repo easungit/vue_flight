@@ -3,7 +3,7 @@
   <title>hello world</title>
  </head>
  <body>
- <h3>This is a new page ! </h3>
+ <pre>This is a new page ! </pre>
  
  </body>
 
